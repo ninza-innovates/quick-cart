@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [bryankhor07/Quick-Cart](https://github.com/bryankhor07/Quick-Cart), maintained by its original author. All credit for the original work goes to them. See the upstream project for license terms.
+
 # 🛒 Quick Cart
 
 A sleek, modern e-commerce web app where users can browse products, add items to a cart, and enjoy smooth UI interactions. Built using the Next.js framework with Firebase for authentication and data storage.
